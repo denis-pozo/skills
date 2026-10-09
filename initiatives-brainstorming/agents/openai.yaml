@@ -1,0 +1,4 @@
+interface:
+  display_name: "Initiatives Brainstorming"
+  short_description: "Brainstorm and capture a concise project idea backlog"
+  default_prompt: "Use $initiatives-brainstorming to help me collect and refine project ideas, then capture them in docs/initiatives.md."
