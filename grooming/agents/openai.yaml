@@ -1,0 +1,4 @@
+interface:
+  display_name: "Grooming"
+  short_description: "Prioritize initiatives and record pipeline commitments"
+  default_prompt: "Use $grooming to interactively prioritize the initiative backlog and record committed initiatives in minimal individual files."
