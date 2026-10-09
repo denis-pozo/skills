@@ -1,0 +1,4 @@
+interface:
+  display_name: "npm Audit"
+  short_description: "Review npm vulnerabilities against the audit baseline"
+  default_prompt: "Use $npm-audit to review dependency vulnerabilities against docs/audit.md and discuss changed findings without installing fixes."

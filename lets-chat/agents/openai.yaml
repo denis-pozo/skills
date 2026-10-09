@@ -1,0 +1,4 @@
+interface:
+  display_name: "Let's Chat"
+  short_description: "Talk through decisions and align before starting work"
+  default_prompt: "Use $lets-chat to talk through my goal, resolve open decisions, and summarize our shared understanding before starting work."
