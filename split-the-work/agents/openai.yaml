@@ -1,0 +1,4 @@
+interface:
+  display_name: "Split the Work"
+  short_description: "Turn agreed initiatives into releasable task cards"
+  default_prompt: "Use $split-the-work to turn the lets-chat outcome and initiative into releasable tasks under docs/tasks."
