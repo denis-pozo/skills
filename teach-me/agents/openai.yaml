@@ -1,0 +1,4 @@
+interface:
+  display_name: "Teach Me"
+  short_description: "Learn by being questioned, not by being handed the answer"
+  default_prompt: "Use $teach-me to help me learn how to do this: ask for my approach first, give hints when I'm off, and only show full code after I've described a working solution."
